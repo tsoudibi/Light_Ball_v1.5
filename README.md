@@ -1,5 +1,4 @@
 # 光球ver1.5 # 
-=============
 接下來將介紹各個檔案的用途
 包含檔案：
 <ol>
@@ -41,8 +40,6 @@
 
 ## [test.h] ##
 
-
-https://github.com/tsoudibi/Light_Ball_v1.5/blob/master/Code/LightBall_v1.5/Constants.h 
 
 
 
